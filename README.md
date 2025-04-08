@@ -63,6 +63,17 @@ sudo apt install quota quotatool
 - Utilitza webmin perquè l'usuari techno no pugui tenir més de 10 fitxers al disc.
 - Comprova que el límit de la quota funciona.
 
+![Captura de pantalla 2025-03-27 135920](https://github.com/user-attachments/assets/5bc0ef68-7ed0-4c92-b5f7-b9db97495464)
+![Captura de pantalla 2025-03-27 142223](https://github.com/user-attachments/assets/6edde257-eba5-4727-b325-a2e113462829)
+![Captura de pantalla 2025-03-27 142637](https://github.com/user-attachments/assets/8ef5a6b6-c87b-4da5-827a-eae2492de8fb)
+![image](https://github.com/user-attachments/assets/9d520370-69df-459e-bf9d-087ac446a2b6)
+![Captura de pantalla 2025-03-27 143650](https://github.com/user-attachments/assets/2fe589a2-96c1-4699-b326-b83225bed73f)
+![image](https://github.com/user-attachments/assets/dde781ba-552d-40be-b111-077ab7d95ba4)
+![image](https://github.com/user-attachments/assets/690cbad9-7f95-4190-b463-f70fef7107a1)
+![image](https://github.com/user-attachments/assets/fbf441ef-b005-463d-9fcc-13f7e47bfeb2)
+![Captura de pantalla 2025-04-01 095015](https://github.com/user-attachments/assets/7423adec-e383-4819-a274-a7b0dac1b315)
+
+
 ## 6.- Còpies de seguretat
 
 - Utilitzant el mòdul de Webmin Filesystem Backup fes una còpia de seguretat del directori /home al directori /backups (l'haureu de crear si no existeix).
@@ -71,6 +82,7 @@ sudo apt install quota quotatool
 - Comprova que els fitxers de /home són els correctes.
 - Programa una còpia de seguretat de /home/bakalao_X per els divendres a les 21:00.
 - Esborra la còpia de seguretat programada anteriorment.
+
 
 ## 7.- Compartició
 
