@@ -71,8 +71,6 @@ sudo apt install quota quotatool
 ![image](https://github.com/user-attachments/assets/dde781ba-552d-40be-b111-077ab7d95ba4)
 ![image](https://github.com/user-attachments/assets/690cbad9-7f95-4190-b463-f70fef7107a1)
 ![image](https://github.com/user-attachments/assets/fbf441ef-b005-463d-9fcc-13f7e47bfeb2)
-![Captura de pantalla 2025-04-01 095015](https://github.com/user-attachments/assets/7423adec-e383-4819-a274-a7b0dac1b315)
-
 
 ## 6.- Còpies de seguretat
 
@@ -82,6 +80,10 @@ sudo apt install quota quotatool
 - Comprova que els fitxers de /home són els correctes.
 - Programa una còpia de seguretat de /home/bakalao_X per els divendres a les 21:00.
 - Esborra la còpia de seguretat programada anteriorment.
+![Captura de pantalla 2025-04-01 095015](https://github.com/user-attachments/assets/7423adec-e383-4819-a274-a7b0dac1b315)
+![Captura de pantalla 2025-04-01 100505](https://github.com/user-attachments/assets/7acac59d-74a2-422c-b511-661aaca8867c)
+![Captura de pantalla 2025-04-01 100658](https://github.com/user-attachments/assets/cdf1c283-6307-42dd-9bba-db07e97a6549)
+![Captura de pantalla 2025-04-01 101726](https://github.com/user-attachments/assets/04142050-0f46-488f-be4d-866b30fbfb94)
 
 
 ## 7.- Compartició
